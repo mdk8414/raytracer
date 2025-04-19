@@ -1,0 +1,5 @@
+![Spiral](showcase/spiral.png)
+![Many](showcase/many.png)
+![Dragon](showcase/dragon.png)
+![Spheres](showcase/spheres2.png)
+![Foo](showcase/foo.png)
