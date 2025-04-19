@@ -1,0 +1,24 @@
+png 100 100 test.png
+
+color 0.5 0.75 1
+sun 1 1 1
+color 0.5 0.25 0
+sun -1 0.5 0.5
+
+
+bounces 1
+aa 20
+
+shininess 0.75
+roughness 0.05
+
+color 0.3 0.5 0.1
+plane 0 1 0 2
+
+shininess 0.5
+roughness 0
+
+
+color 0.4 0.4 0.7
+sphere 0 1 0 1.0
+
